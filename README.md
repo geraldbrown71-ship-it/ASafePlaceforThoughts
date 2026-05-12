@@ -716,7 +716,7 @@
           You’re not “too much”&mdash;<span>you’ve just carried too many storms alone.</span>
         </h1>
         <p class="hero-sub">
-          You pushed through.You didnt complain.You buired what hurts and kept moving. That weight doesnt disappear-it builds.This is where you deal with it, without judgemwnt.
+          You pushed through.You didnt complain.You buried what hurts and kept moving. That weight doesnt disappear-it builds.This is where you deal with it, without judgemwnt.
         </p>
         <div class="hero-actions">
           <button class="btn-primary" id="startCheckIn">
