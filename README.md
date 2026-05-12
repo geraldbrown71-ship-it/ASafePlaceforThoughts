@@ -692,7 +692,7 @@
     <div class="nav">
       <div class="logo">
         <div class="logo-mark">ASPFT</div>
-        <span>Stronger Than Before</span>
+        <span>ASafePlaceForThoughts</span>
       </div>
       <div class="nav-links">
         <button data-nav="home" class="active">Home</button>
