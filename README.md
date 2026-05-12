@@ -1,6 +1,6 @@
 
 <html lang="en">
-<head>l[image alt](CB6F6C12-5A2F-4CCD-BD81-280C82AFB74F.PNG)
+l[image alt](CB6F6C12-5A2F-4CCD-BD81-280C82AFB74F.PNG)
   <meta charset="UTF-8" />
   <title>ASafePlaceForThoughts – Men’s Mental Health</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
